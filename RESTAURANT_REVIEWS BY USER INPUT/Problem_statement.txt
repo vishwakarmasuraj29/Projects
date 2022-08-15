@@ -1,0 +1,1 @@
+Goal: To Prepare a Restaurant Review system based on user input using (ANN_NB)Artificial Neural Networks(Naive_Bayes)
