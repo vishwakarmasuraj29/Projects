@@ -1,0 +1,1 @@
+Goal: To predicted the label value for X[18:19] and find validation accuracy using CNN(Image Classification Algorithm) from Dataset digitsnpixels.csv
